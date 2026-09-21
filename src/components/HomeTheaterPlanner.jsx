@@ -1,6 +1,7 @@
 import React, { useState, useMemo, useEffect, useRef, useCallback } from "react";
 import { RotateCcw, Move, Lock, Unlock, Sparkles } from "lucide-react";
 
+
 const CONFIGS = {
   stereo: {
     label: "Estéreo 2.0",
